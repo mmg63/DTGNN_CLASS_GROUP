@@ -1,0 +1,9 @@
+{
+  "train_dataset_path": "/Users/mustafamohammadi/Documents/GitHub/3DVNN_202400801/BIOMEDIC_PROJECT/model_1_DTGCN_Class/2_TrainingModel_20250412/dataset/20250410_TrainGraphAugmentedDatasetWithLabels_and_filenames_one_hot.pt",
+  "test_dataset_path": "/Users/mustafamohammadi/Documents/GitHub/3DVNN_202400801/BIOMEDIC_PROJECT/model_1_DTGCN_Class/2_TrainingModel_20250412/dataset/20250410_TestGraphAugmentedDatasetWithLabels_and_filenames_one_hot.pt",
+  "n_classes": 1,
+  "k_fold": 6,
+  "epochs": 50,
+  "batch_size": 16,
+  "lr": 0.01
+}
